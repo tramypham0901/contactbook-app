@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Contact Book</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_home_actitvity">HomeActitvity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mark">MarkActivity</string>
+
+    <string name="attendance">Điểm danh</string>
+    <string name="mark">Điểm số</string>
+    <string name="chat">Nhắn tin</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="txt_schedule_date">dd/MM/yyyy</string>
+</resources>
